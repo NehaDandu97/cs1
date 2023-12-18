@@ -356,6 +356,11 @@ div[role="progressbar"] {
     width: 95%;
     margin-bottom: 20px;
 }
+.resume{
+    text-align: center;
+        margin-top: 20px;
+    
+}
 
 /*CONTACT US SECTION*/
 .contact form {
